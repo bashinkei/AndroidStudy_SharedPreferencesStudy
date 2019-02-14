@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">SharedPreferencesStudy</string>
+    <string name="storeName">保存</string>
 </resources>
